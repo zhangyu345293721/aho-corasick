@@ -1,3 +1,5 @@
+AC算法，是fork大神：https://github.com/robert-bor 在学校时候根据他的思想添加了部分中文注释，现在将它传入github，与大家一起学习。<br>
+下面是介绍AC算法的用法<br>
 Introduction
 ------------
 Nowadays most free-text searching is based on Lucene-like approaches, where the search text is parsed into its
